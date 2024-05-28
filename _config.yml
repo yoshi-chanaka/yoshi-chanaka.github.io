@@ -1,0 +1,20 @@
+title: yoshichan
+description: >
+  My Description. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+baseurl: ""
+url: "https://yoshi-chanaka.github.io/"
+
+author:
+  name: yoshichan
+  email: ysk.tanaka98@gmail.com
+  github: yoshi-chanaka
+
+paginate: 3
+paginate_path: page:num
+
+sass:
+  style: expanded
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed

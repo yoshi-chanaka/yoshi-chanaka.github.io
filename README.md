@@ -1,1 +1,0 @@
-# yoshi-chanaka.github.io
