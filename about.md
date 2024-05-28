@@ -1,12 +1,13 @@
 ---
 layout: page
 title: About
-description: プロフィールページのサンプルです｡よろしくお願いします｡
+description: >
 permalink: /about/
 ---
 
-マークダウン形式で書けます｡
-
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 業績
+### 査読なし
+* 田中 義規, 竹川 高志. リンク情報を付加した文書分散表現. 電子情報通信学会総合大会, 2022年3月.
+* 田中 義規, 竹川 高志. Graph Autoencodersによる単語情報とリンク情報を融合した文書分散表現. 人工知能学会全国大会 (第36回), 4E3-GS-2-01, 2022年6月.
+* 田中 義規，稲葉 通将. ユーザレビュー作成支援のためのインタビュー対話システムの構築．第96回言語・音声理解と対話処理研究会 (第13回対話システムシンポジウム), 人工知能学会研究会資料 言語・音声理解と対話処理研究会, Vol.96, pp.46-50, 2022年12月. （若手萌芽賞）
+* 田中 義規, 稲葉 通将. 対話システムを活用したユーザレビュー作成支援手法の提案. 人工知能学会全国大会 (第38回), 3R5-OS-13c-02, 2024年5月.
