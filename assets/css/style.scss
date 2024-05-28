@@ -1,25 +1,210 @@
-.archive {
+---
+---
 
-    @include pad();
+@import 'config';
+@import 'mixins';
+@import 'extends';
+
+
+a{
+  color: $font-color-a;
+  &:hover{
+    color: $font-color-a-hover;
+  }
+}
+
+body{
+  color: $font-color;
+}
+
+h2{
+  margin: 2em 0 1.5em 0;
+  font-size: 20px;
+
+  @include breakpoint(){
+    font-size: 24px;
+  }
+}
+
+p{
+  margin: 0 0 1em 0;
+}
+
+.archive{
+
+  @include pad();
+  border-bottom: $border;
+
+  &__title{
+
+    margin: 0;
+
+    a{
+      color: $font-color;
+      text-decoration: none;
+    }
+  }
+
+  &__date{
+    @extend %meta;
+  }
+
+  &__excerpt{
+    font-size: 14px;
+    color: #666;
+    margin-top: 1em;
+  }
+}
+
+.container{
+  max-width: $container-width;
+  margin: auto;
+  padding: 0 25px;
+}
+
+.copyright{
+  margin-bottom: 0;
+}
+
+.footer{
+  border-top: $border;
+  @include pad();
+
+  &__container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}
+
+.front-page{
+  @include pad();
+}
+
+.nav{
+
+  border-top: $border;
+  border-bottom: $border;
+
+  &__list{
+    @include resetlist();
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &__item{
+    margin-right: 1em;
+
+    a{
+      display: block;
+      text-decoration: none;
+      color: $font-color;
+      padding: 15px 10px;
+      font-size: 0.9em;
+    }
+  }
+}
+
+.page{
+
+  &__header{
     border-bottom: $border;
+    @include pad();
+  }
 
-    &__title {
+  &__title{
+    margin: 0;
+    font-size: 28px;
 
-        margin: 0;
+    @include breakpoint(){
+      font-size: 40px;
+    }
+  }
 
-        a {
-            color: $font-color;
-            text-decoration: none;
-        }
+  &__description{
+    @extend %meta;
+  }
+
+  &__body{
+    @include pad();
+  }
+
+  &__date{
+    @extend %meta;
+  }
+}
+
+.site-title{
+  font-weight: bold;
+  padding: 4% 0;
+
+  @include breakpoint(){
+    font-size: 20px;
+  }
+
+  a{
+    color: $font-color;
+    text-decoration: none;
+  }
+}
+
+.pager{
+  @include pad();
+  display: flex;
+  flex-wrap: wrap;
+
+  &__item{
+
+    $pre: &;
+
+    a{
+      text-decoration: none;
     }
 
-    &__date {
-        @extend %meta;
+    &--prev{
+      @extend #{$pre};
+      margin-left: auto;
     }
 
-    &__excerpt {
-        font-size: 14px;
-        color: #666;
-        margin-top: 1em;
+    &--next{
+      @extend #{$pre};
+      margin-right: auto;
     }
+  }
+}
+
+.pagination{
+  @include pad();
+  display: flex;
+  flex-wrap: wrap;
+
+  &__item{
+
+    margin-right: 4px;
+    text-decoration: none;
+    display: block;
+    padding: 7px 16px;
+    border: $border;
+  }
+
+  .current{
+    background: $color-main;
+    border-color: $color-main;
+    color: white;
+  }
+}
+
+.social-link{
+  display: flex;
+  flex-wrap: wrap;
+
+  &__item{
+    font-size: 1.5em;
+
+    a{
+      color: #666;
+      display: block;
+      padding: 5px;
+    }
+  }
 }

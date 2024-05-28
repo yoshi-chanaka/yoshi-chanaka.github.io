@@ -1,0 +1,15 @@
+@mixin breakpoint($width: 800px){
+    @media screen and (min-width: $width){
+      @content;
+    }
+  }
+  
+  @mixin resetlist(){
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  @mixin pad($size: 1){
+    padding: 4% * $size 0;
+  }
