@@ -1,0 +1,25 @@
+.archive {
+
+    @include pad();
+    border-bottom: $border;
+
+    &__title {
+
+        margin: 0;
+
+        a {
+            color: $font-color;
+            text-decoration: none;
+        }
+    }
+
+    &__date {
+        @extend %meta;
+    }
+
+    &__excerpt {
+        font-size: 14px;
+        color: #666;
+        margin-top: 1em;
+    }
+}

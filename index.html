@@ -2,128 +2,16 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="ja">
-
-<head>
-    <meta charset="UTF-8">
-    <title>サイトタイトルとかページタイトルとか</title>
-    <!-- Normalize.css -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- Main CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <meta name="description" content="ここにページの説明文">
-    <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-</head>
-
-<body>
-
-    <!-- サイト名とナビゲーション部分｡全ページ共通 -->
-    <header class="header">
-        <div class="container">
-            <div class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
-            <nav class="nav">
-                <ul class="nav__list">
-                    <li class="nav__item"><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li class="nav__item"><a href="{{ '/about/' | relative_url }}">About</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-
-
-
-    <p>ここにコンテンツ｡ページによっていろいろ｡</p>
-
-
-
-    <!-- フッター｡全ページ共通 -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer__container">
-                <p class="copyright"><small>&copy; 2017 {{ site.author.name }}</small></p>
-
-                <div class="social-link">
-                    {% if site.author.github %}
-                    <p class="social-link__item">
-                        <a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github"></i></a>
-                    </p>
-                    {% endif %}
-                    {% if site.author.twitter %}
-                    <p class="social-link__item">
-                        <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter"></i></a>
-                    </p>
-                    {% endif %}
-                </div>
-            </div><!--footer__container-->
-        </div><!--container-->
-    </footer>
-
-</body>
-
-</html>---
-layout: default
----
-
-<!DOCTYPE html>
-<html lang="ja">
-
-<head>
-    <meta charset="UTF-8">
-    <title>yoshi-chanaka.io</title>
-    <!-- Normalize.css -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- Main CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <meta name="description" content="yoshichan">
-    <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-</head>
-
-<body>
-
-    <!-- サイト名とナビゲーション部分｡全ページ共通 -->
-    <header class="header">
-        <div class="container">
-            <div class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
-            <nav class="nav">
-                <ul class="nav__list">
-                    <li class="nav__item"><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li class="nav__item"><a href="{{ '/about/' | relative_url }}">About</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-
-    <p>ここにコンテンツ｡ページによっていろいろ｡</p>
-
-    <!-- フッター｡全ページ共通 -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer__container">
-                <p class="copyright"><small>&copy; 2017 {{ site.author.name }}</small></p>
-
-                <div class="social-link">
-                    {% if site.author.github %}
-                    <p class="social-link__item">
-                        <a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github"></i></a>
-                    </p>
-                    {% endif %}
-                    {% if site.author.twitter %}
-                    <p class="social-link__item">
-                        <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter"></i></a>
-                    </p>
-                    {% endif %}
-                </div>
-            </div><!--footer__container-->
-        </div><!--container-->
-    </footer>
-
-</body>
-
-</html>
+<div class="contents front-page">
+  <div class="container">
+    
+    {% for post in site.posts %}
+      <article class="archive">
+        <h2 class="archive__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p class="archive__date"><time>{{ post.date | date: '%B %d, %Y' }}</time></p>
+        <div class="archive__excerpt">{{ post.excerpt }}</div>
+      </article>
+    {% endfor %}
+    
+  </div><!--container-->
+</div><!--contents-->
