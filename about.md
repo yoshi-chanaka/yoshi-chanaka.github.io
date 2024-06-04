@@ -5,10 +5,9 @@ description: >
 permalink: /about/
 ---
 
-# CV
 ### Yoshiki Tanaka
 
-1st year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Inaba Michimasa.
+1st year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Michimasa Inaba.
 
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ)
 
