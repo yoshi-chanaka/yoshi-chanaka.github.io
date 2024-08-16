@@ -12,6 +12,11 @@ permalink: /about/
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ)
 
 ---
+## 今後の予定
+- 9/4~9/6に開催される「第19回YANSシンポジウム」に参加・発表します．
+- 9/19~9/23に開催されるYRRSDS/SIGDIALに参加・発表します．
+
+---
 ## 興味
 * 対話システム
 * 意思決定
