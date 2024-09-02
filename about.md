@@ -26,6 +26,7 @@ permalink: /about/
 
 ### 査読あり
 * Yoshiki Tanaka and Michimasa Inaba. User Review Writing via Interview with Dialogue Systems (Long paper), In SIGDIAL 2024.
+* Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information. The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
 
 ### 査読なし
 * 田中 義規, 稲葉 通将. 対話システムを活用したユーザレビュー作成支援手法の提案. 人工知能学会全国大会 (第38回), 3R5-OS-13c-02, 2024年5月.
