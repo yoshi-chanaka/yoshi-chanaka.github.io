@@ -14,7 +14,8 @@ permalink: /about/
 ---
 ## 今後の予定
 - 9/4~9/6に開催される「第19回YANSシンポジウム」に参加・発表します．
-- 9/19~9/23に開催されるYRRSDS/SIGDIALに参加・発表します．
+- 9/16~9/20に開催されるYRRSDS/SIGDIALに参加・発表します．
+- 9/23~9/24に開催されるINLG 2024 Workshopに参加・発表します．
 
 ---
 ## 興味
@@ -29,6 +30,7 @@ permalink: /about/
 * Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information. The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
 
 ### 査読なし
+* 田中 義規, 稲葉 通将. ユーザレビュー作成支援を目的とした対話システムの活用法の提案. 第19回YANSシンポジウム, S3-P03, 2024年9月.
 * 田中 義規, 稲葉 通将. 対話システムを活用したユーザレビュー作成支援手法の提案. 人工知能学会全国大会 (第38回), 3R5-OS-13c-02, 2024年5月.
 * 田中 義規，稲葉 通将. ユーザレビュー作成支援のためのインタビュー対話システムの構築．第96回言語・音声理解と対話処理研究会 (第13回対話システムシンポジウム), 人工知能学会研究会資料 言語・音声理解と対話処理研究会, Vol.96, pp.46-50, 2022年12月. （**若手萌芽賞**）
 * 田中 義規, 竹川 高志. Graph Autoencodersによる単語情報とリンク情報を融合した文書分散表現. 人工知能学会全国大会 (第36回), 4E3-GS-2-01, 2022年6月.
