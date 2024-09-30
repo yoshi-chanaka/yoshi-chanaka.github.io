@@ -11,11 +11,11 @@ permalink: /about/
 
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ)
 
----
+<!-- ---
 ## 今後の予定
 - 9/4~9/6に開催される「第19回YANSシンポジウム」に参加・発表します．
 - 9/16~9/20に開催されるYRRSDS/SIGDIALに参加・発表します．
-- 9/23~9/24に開催されるINLG 2024 Workshopに参加・発表します．
+- 9/23~9/24に開催されるINLG 2024 Workshopに参加・発表します． -->
 
 ---
 ## 興味
@@ -37,16 +37,18 @@ permalink: /about/
 * 田中 義規, 竹川 高志. リンク情報を付加した文書分散表現. 電子情報通信学会総合大会, 2022年3月.
 
 ## コンペティション
-* 人狼知能大会自然言語部門2024国内大会（チームUEC-IL，2位）
+* AIWolf International Contest 2024 (チームUEC-IL, Japanese/English Track, 英語トラックにてBest Subjective Evaluation Award) 2024年9月.
+* 人狼知能大会自然言語部門2024国内大会（チームUEC-IL，2位）2024年5月.
 
 ## 受賞・表彰等
+* AIWolf International Contest 2024, Best Subjective Evaluation Award (チームUEC-IL, English Track) 2024年9月.
 * 国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST)次世代AI人材育成プログラム(博士後期課程学生). 2024年4月-2027年3月.
 * 田中 義規. 電気通信大学 学生表彰. 2023年3月.
 * 田中 義規，稲葉 通将. 第96回言語・音声理解と対話処理研究会 ([第13回対話システムシンポジウム](https://jsai-slud.github.io/sig-slud/archive/award.html)), 若手萌芽賞. 2022年12月.
 * 田中 義規. 工学院大学 成績優秀者表彰. 2021年11月.
 
 
-## インターン
+<!-- ## インターン -->
 
 ## 資格
 * 2013.11. 全国珠算教育連盟主催珠算検定 4段
