@@ -12,10 +12,10 @@ permalink: /about/
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ)
 
 ---
-## 今後の予定
-- 11/28~11/29に開催される[第15回対話システムシンポジウム（第102回SLUD研究会）](https://ai-gakkai.or.jp/sig-slud/sig-announce/102th-sig.html)にてSIGDIALの国際会議報告を行います．
+<!-- ## 今後の予定 -->
+<!-- - 11/28~11/29に開催される[第15回対話システムシンポジウム（第102回SLUD研究会）](https://ai-gakkai.or.jp/sig-slud/sig-announce/102th-sig.html)にてSIGDIALの国際会議報告を行います． -->
 
----
+<!-- --- -->
 ## Research Interests
 * Dialogue System
 * Decision-Making
@@ -25,6 +25,7 @@ permalink: /about/
 
 ### 査読あり
 * Yoshiki Tanaka and Michimasa Inaba. [User Review Writing via Interview with Dialogue Systems](https://aclanthology.org/2024.sigdial-1.37/) (Long paper), In SIGDIAL 2024.
+* Yoshiki Tanaka. [Enhancing Decision-Making with AI Assistance](https://aclanthology.org/2024.yrrsds-1.19/). Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems. 2024.
 * Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. [Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information](https://aclanthology.org/2024.aiwolfdial-1.6/). The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
 
 ### 査読なし
@@ -42,9 +43,11 @@ permalink: /about/
 * [AIWolf International Contest 2024](https://sites.google.com/view/aiwolfdial2024-inlg/home), Best Subjective Evaluation Award (チームUEC-IL, English Track) 2024年9月.
 * 国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST)[次世代AI人材育成プログラム](https://www.jst.go.jp/jisedai/boost-s/)(博士後期課程学生), [採択](https://www.uec.ac.jp/news/announcement/2024/20241030_6584.html). 2024年4月-2027年3月.
 * 田中 義規. 電気通信大学 学生表彰. 2023年3月.
-* 田中 義規，稲葉 通将. 第96回言語・音声理解と対話処理研究会 ([第13回対話システムシンポジウム](https://jsai-slud.github.io/sig-slud/archive/award.html)), 若手萌芽賞. 2022年12月.
+* 田中 義規，稲葉 通将. 第96回言語・音声理解と対話処理研究会 ([第13回対話システムシンポジウム](https://jsai-slud.github.io/sig-slud/archive/award.html)), 若手萌芽賞. 2022年12月.（[学内](https://www.uec.ac.jp/news/prize/2022/20221227_5058.html)，[SLUD](https://ai-gakkai.or.jp/sig-slud/archive/award.html)）
 * 田中 義規. 工学院大学 成績優秀者表彰. 2021年11月.
 
+## 講演等
+* 斉 志揚, 田中 義規．SIGDIAL2024国際会議報告．第102回言語・音声理解と対話処理研究会 (第15回対話システムシンポジウム)．
 
 <!-- ## インターン -->
 
