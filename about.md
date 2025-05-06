@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Yoshiki Tanaka （田中 義規）
 
-1st year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Michimasa Inaba.
+2nd year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Michimasa Inaba.
 
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ)
 
@@ -41,17 +41,21 @@ permalink: /about/
 * 人狼知能大会自然言語部門2024国内大会（チームUEC-IL，2位）2024年5月.
 
 ## 受賞・表彰等
-* [人狼知能コンテスト2024冬季 国内大会 自然言語部門](https://sites.google.com/view/aiwolfdial2024winterjp/home)，勝率（Macro，Micro2），主観評価（平均，一貫性）で1位. 2025年3月.
+* [人狼知能コンテスト2024冬季 国内大会 自然言語部門](https://sites.google.com/view/aiwolfdial2024winterjp/home)，勝率（Macro，Micro2）および主観評価（平均，一貫性）で1位. 2025年3月.
 * [AIWolf International Contest 2024](https://sites.google.com/view/aiwolfdial2024-inlg/home), Best Subjective Evaluation Award (チームUEC-IL, English Track). 2024年9月.
-* 国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST)[次世代AI人材育成プログラム](https://www.jst.go.jp/jisedai/boost-s/)(博士後期課程学生), [採択](https://www.uec.ac.jp/news/announcement/2024/20241030_6584.html). 2024年4月-2027年3月.
 * 田中 義規. 電気通信大学 学生表彰. 2023年3月.
 * 田中 義規，稲葉 通将. 第96回言語・音声理解と対話処理研究会 ([第13回対話システムシンポジウム](https://jsai-slud.github.io/sig-slud/archive/award.html)), 若手萌芽賞. 2022年12月.（[学内](https://www.uec.ac.jp/news/prize/2022/20221227_5058.html)，[SLUD](https://ai-gakkai.or.jp/sig-slud/archive/award.html)）
 * 田中 義規. 工学院大学 成績優秀者表彰. 2021年11月.
 
+## Grants
+* 国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST)[次世代AI人材育成プログラム](https://www.jst.go.jp/jisedai/boost-s/)(博士後期課程学生), [採択](https://www.uec.ac.jp/news/announcement/2024/20241030_6584.html). 2024年4月-2027年3月.
+
 ## 講演等
 * 斉 志揚, 田中 義規．SIGDIAL2024国際会議報告．第102回言語・音声理解と対話処理研究会 (第15回対話システムシンポジウム)．
 
-<!-- ## インターン -->
+## インターン
+* トレーダム株式会社（2022年12月 - 2025年3月）
+* 株式会社日本経済新聞社（2024年9月 - 2024年9月）
 
 ## 資格
 * 2013.11. 全国珠算教育連盟主催珠算検定 4段
