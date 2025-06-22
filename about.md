@@ -9,7 +9,7 @@ permalink: /about/
 
 2nd year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Michimasa Inaba.
 
-[GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ)
+[GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ) / [LinkedIn](https://www.linkedin.com/in/yoshiki-tanaka-7a0047371/)
 
 ---
 <!-- ## 今後の予定 -->
@@ -52,6 +52,7 @@ permalink: /about/
 
 ## 講演等
 * 斉 志揚, 田中 義規．SIGDIAL2024国際会議報告．第102回言語・音声理解と対話処理研究会 (第15回対話システムシンポジウム)．
+<!-- * 田中 義規．生成AIを用いた質の高い文章作成方法．生成AI・AI活用セミナー（学内向け）2025年1月． -->
 
 ## インターン
 * トレーダム株式会社（2022年12月 - 2025年3月）
