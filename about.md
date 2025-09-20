@@ -12,8 +12,8 @@ permalink: /about/
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ) / [LinkedIn](https://www.linkedin.com/in/yoshiki-tanaka-7a0047371/)
 
 ---
-## 今後の予定
-9/4（木）に開催される，文部科学省主催の「[未来の博士フェス2025 ～知の挑戦者たちへ ― 未来を拓く博士の力～](https://www.jst.go.jp/jisedai/mirainohakushi2025/)」にてポスター発表を行います．
+<!-- ## 今後の予定 -->
+
 <!-- - 11/28~11/29に開催される[第15回対話システムシンポジウム（第102回SLUD研究会）](https://ai-gakkai.or.jp/sig-slud/sig-announce/102th-sig.html)にてSIGDIALの国際会議報告を行います． -->
 
 <!-- --- -->
@@ -53,11 +53,13 @@ permalink: /about/
 
 ## 講演等
 * 斉 志揚, 田中 義規．SIGDIAL2024国際会議報告．第102回言語・音声理解と対話処理研究会 (第15回対話システムシンポジウム)．
-<!-- * 田中 義規．生成AIを用いた質の高い文章作成方法．生成AI・AI活用セミナー（学内向け）2025年1月． -->
+* 田中 義規．生成AIを用いた質の高い文章作成方法．生成AI・AI活用セミナー（学内向け）2025年1月．
+* 田中 義規．対話システムを活用したユーザレビュー作成支援に関する研究．(ポスター発表) [未来の博士フェス2025 ～知の挑戦者たちへ ― 未来を拓く博士の力～](https://www.jst.go.jp/jisedai/mirainohakushi2025/)．2025年9月．
 
 ## インターン
 * トレーダム株式会社（2022年12月 - 2025年3月）
 * 株式会社日本経済新聞社（2024年9月 - 2024年9月）
+* Sansan株式会社（2025年8月 - 2025年9月）
 
 ## 資格
 * 2013.11. 全国珠算教育連盟主催珠算検定 4段
