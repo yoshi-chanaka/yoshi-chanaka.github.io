@@ -12,11 +12,13 @@ permalink: /about/
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ) / [LinkedIn](https://www.linkedin.com/in/yoshiki-tanaka-7a0047371/)
 
 ---
-<!-- ## 今後の予定 -->
-
-<!-- - 11/28~11/29に開催される[第15回対話システムシンポジウム（第102回SLUD研究会）](https://ai-gakkai.or.jp/sig-slud/sig-announce/102th-sig.html)にてSIGDIALの国際会議報告を行います． -->
-
-<!-- --- -->
+## News
+- 発話に対する話者の心情文付き日本語対話データセット [Emotion Transcription in Conversation Dataset](https://github.com/UEC-InabaLab/ETCDataset)を公開しました．
+- 3/9~3/13に開催される[言語処理学会第32回年次大会 (NLP2026)](https://anlp.jp/nlp2026/)にて以下の発表を行います．
+    - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク
+- [LREC 2026](https://lrec2026.info/)に以下の論文が採択されました．5/11~5/16に開催される国際会議にて発表を行います．
+  - Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language
+---
 ## Research Interests
 * Dialogue System
 * Decision-Making
@@ -25,11 +27,13 @@ permalink: /about/
 ## 業績
 
 ### 査読あり
-* Yoshiki Tanaka and Michimasa Inaba. [User Review Writing via Interview with Dialogue Systems](https://aclanthology.org/2024.sigdial-1.37/) (Long paper), In SIGDIAL 2024.
-* Yoshiki Tanaka. [Enhancing Decision-Making with AI Assistance](https://aclanthology.org/2024.yrrsds-1.19/). Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems. 2024.
+* Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language. In LREC 2026.
 * Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. [Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information](https://aclanthology.org/2024.aiwolfdial-1.6/). The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
+* Yoshiki Tanaka. [Enhancing Decision-Making with AI Assistance](https://aclanthology.org/2024.yrrsds-1.19/). Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems. 2024.
+* Yoshiki Tanaka and Michimasa Inaba. [User Review Writing via Interview with Dialogue Systems](https://aclanthology.org/2024.sigdial-1.37/) (Long paper), In SIGDIAL 2024.
 
 ### 査読なし
+* 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク. 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 * 田中 義規, 稲葉 通将. ユーザレビュー作成支援を目的とした対話システムの活用法の提案. 第19回YANSシンポジウム, S3-P03, 2024年9月.
 * 田中 義規, 稲葉 通将. 対話システムを活用したユーザレビュー作成支援手法の提案. 人工知能学会全国大会 (第38回), 3R5-OS-13c-02, 2024年5月.
 * 田中 義規，稲葉 通将. ユーザレビュー作成支援のためのインタビュー対話システムの構築．第96回言語・音声理解と対話処理研究会 (第13回対話システムシンポジウム), 人工知能学会研究会資料 言語・音声理解と対話処理研究会, Vol.96, pp.46-50, 2022年12月. （**若手萌芽賞**）
