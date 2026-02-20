@@ -18,7 +18,10 @@ permalink: /about/
     - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク
 - [LREC 2026](https://lrec2026.info/)に以下の論文が採択されました．5/11~5/16に開催される国際会議にて発表を行います．
   - Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language
+
 ---
+
+
 ## Research Interests
 * Dialogue System
 * Decision-Making
