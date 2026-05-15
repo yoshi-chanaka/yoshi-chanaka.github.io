@@ -14,10 +14,18 @@ permalink: /about/
 ---
 ## News
 - 発話に対する話者の心情文付き日本語対話データセット [Emotion Transcription in Conversation Dataset](https://github.com/UEC-InabaLab/ETCDataset)を公開しました．
+
 - 3/9~3/13に開催される[言語処理学会第32回年次大会 (NLP2026)](https://anlp.jp/nlp2026/)にて以下の発表を行います．
+
     - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク
+
 - [LREC 2026](https://lrec2026.info/)に以下の論文が採択されました．5/11~5/16に開催される国際会議にて発表を行います．
+
   - Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language
+
+- 6/8~6/12に開催される[人工知能学会全国大会（第40回）](https://www.ai-gakkai.or.jp/jsai2026/)にて以下の発表を行います．
+
+    - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. クライアントの心情文予測に基づくカウンセリング応答生成.
 
 ---
 
