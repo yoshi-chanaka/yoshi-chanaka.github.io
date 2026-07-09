@@ -12,10 +12,12 @@ permalink: /about/
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ) / [LinkedIn](https://www.linkedin.com/in/yoshiki-tanaka-7a0047371/)
 
 ---
+
 ## News
 - 国際会議[LREC2026の参加報告](https://note.com/uecinabalab/n/n02a31edf3f5a)を執筆しました．
 
 - 発話に対する話者の心情文付き日本語対話データセット [Emotion Transcription in Conversation Dataset](https://github.com/UEC-InabaLab/ETCDataset)を公開しました．
+
 ---
 
 
