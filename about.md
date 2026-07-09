@@ -7,26 +7,15 @@ permalink: /about/
 
 ### Yoshiki Tanaka （田中 義規）
 
-2nd year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Michimasa Inaba.
+3rd year doctoral student at The University of Electro-Communications, under the supervision of Assoc. Prof. Michimasa Inaba.
 
 [GitHub](https://github.com/yoshi-chanaka) / [Scholar](https://scholar.google.co.jp/citations?view_op=list_works&hl=ja&user=QkKVktkAAAAJ) / [LinkedIn](https://www.linkedin.com/in/yoshiki-tanaka-7a0047371/)
 
 ---
 ## News
+- 国際会議[LREC2026の参加報告](https://note.com/uecinabalab/n/n02a31edf3f5a)を執筆しました．
+
 - 発話に対する話者の心情文付き日本語対話データセット [Emotion Transcription in Conversation Dataset](https://github.com/UEC-InabaLab/ETCDataset)を公開しました．
-
-- 3/9~3/13に開催される[言語処理学会第32回年次大会 (NLP2026)](https://anlp.jp/nlp2026/)にて以下の発表を行います．
-
-    - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク
-
-- [LREC 2026](https://lrec2026.info/)に以下の論文が採択されました．5/11~5/16に開催される国際会議にて発表を行います．
-
-  - Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language
-
-- 6/8~6/12に開催される[人工知能学会全国大会（第40回）](https://www.ai-gakkai.or.jp/jsai2026/)にて以下の発表を行います．
-
-    - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. クライアントの心情文予測に基づくカウンセリング応答生成.
-
 ---
 
 
@@ -38,12 +27,13 @@ permalink: /about/
 ## 業績
 
 ### 査読あり
-* Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language. In LREC 2026.
+* Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: [Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language](https://lrec.elra.info/lrec2026-main-761). In LREC 2026.
 * Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. [Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information](https://aclanthology.org/2024.aiwolfdial-1.6/). The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
 * Yoshiki Tanaka. [Enhancing Decision-Making with AI Assistance](https://aclanthology.org/2024.yrrsds-1.19/). Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems. 2024.
 * Yoshiki Tanaka and Michimasa Inaba. [User Review Writing via Interview with Dialogue Systems](https://aclanthology.org/2024.sigdial-1.37/) (Long paper), In SIGDIAL 2024.
 
 ### 査読なし
+* 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. クライアントの心情文予測に基づくカウンセリング応答生成. 人工知能学会全国大会（第40回）, 2026年6月.
 * 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク. 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 * 田中 義規, 稲葉 通将. ユーザレビュー作成支援を目的とした対話システムの活用法の提案. 第19回YANSシンポジウム, S3-P03, 2024年9月.
 * 田中 義規, 稲葉 通将. 対話システムを活用したユーザレビュー作成支援手法の提案. 人工知能学会全国大会 (第38回), 3R5-OS-13c-02, 2024年5月.
