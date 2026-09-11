@@ -14,9 +14,11 @@ permalink: /about/
 ---
 
 ## News
-- 国際会議[LREC2026の参加報告](https://note.com/uecinabalab/n/n02a31edf3f5a)を執筆しました．
-
-- 発話に対する話者の心情文付き日本語対話データセット [Emotion Transcription in Conversation Dataset](https://github.com/UEC-InabaLab/ETCDataset)を公開しました．
+- 論文誌「自然言語処理」に以下の論文が[採録](https://www.anlp.jp/guide/saitaku.html)されました．
+    - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における話者の心情を自然言語で記述するためのデータセットの構築, 自然言語処理, Vol.33, No.4, 2026.
+- [SLUD若手ワークショップ](https://ai-gakkai.or.jp/sig-slud/archive/young-ws.html)のオーガナイザに就任しました．
+- 第21回YANSシンポジウムにて以下の発表を行いました．
+    - 田中 義規, 井上 昂治, 稲葉 通将. 対話における話者本人の心情を第三者はどこまで推測できるか. 第21回YANSシンポジウム, S2-P39, 2026年8月.
 
 ---
 
@@ -25,16 +27,21 @@ permalink: /about/
 * Dialogue System
 * Decision-Making
 * Natural Language Processing
+* Human-Computer Interaction
 
 ## 業績
 
-### 査読あり
-* Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba: [Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language](https://lrec.elra.info/lrec2026-main-761). In LREC 2026.
+### 査読あり論文誌
+- 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における話者の心情を自然言語で記述するためのデータセットの構築, 自然言語処理, Vol.33, No.4, 2026.
+
+### 査読あり国際会議
+* Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba. [Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language](https://lrec.elra.info/lrec2026-main-761). In LREC 2026.
 * Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. [Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information](https://aclanthology.org/2024.aiwolfdial-1.6/). The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
 * Yoshiki Tanaka. [Enhancing Decision-Making with AI Assistance](https://aclanthology.org/2024.yrrsds-1.19/). Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems. 2024.
 * Yoshiki Tanaka and Michimasa Inaba. [User Review Writing via Interview with Dialogue Systems](https://aclanthology.org/2024.sigdial-1.37/) (Long paper), In SIGDIAL 2024.
 
 ### 査読なし
+* 田中 義規, 井上 昂治, 稲葉 通将. 対話における話者本人の心情を第三者はどこまで推測できるか. 第21回YANSシンポジウム, S2-P39, 2026年8月.
 * 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. クライアントの心情文予測に基づくカウンセリング応答生成. 人工知能学会全国大会（第40回）, 2026年6月.
 * 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク. 言語処理学会第32回年次大会 (NLP2026), 2026年3月.
 * 田中 義規, 稲葉 通将. ユーザレビュー作成支援を目的とした対話システムの活用法の提案. 第19回YANSシンポジウム, S3-P03, 2024年9月.
@@ -42,6 +49,9 @@ permalink: /about/
 * 田中 義規，稲葉 通将. ユーザレビュー作成支援のためのインタビュー対話システムの構築．第96回言語・音声理解と対話処理研究会 (第13回対話システムシンポジウム), 人工知能学会研究会資料 言語・音声理解と対話処理研究会, Vol.96, pp.46-50, 2022年12月. （**若手萌芽賞**）
 * 田中 義規, 竹川 高志. Graph Autoencodersによる単語情報とリンク情報を融合した文書分散表現. 人工知能学会全国大会 (第36回), 4E3-GS-2-01, 2022年6月.
 * 田中 義規, 竹川 高志. リンク情報を付加した文書分散表現. 電子情報通信学会総合大会, 2022年3月.
+
+## データセット
+* [Emotion Transcription in Conversation (ETC) Dataset](https://github.com/UEC-InabaLab/ETCDataset): 発話に対する話者の心情文付き日本語対話データセット
 
 ## コンペティション
 * 人狼知能コンテスト2024冬季 国内大会 自然言語部門（チームUEC-IL，勝率：Macro・Micro2，および主観評価：平均・一貫性で1位）2025年3月.
@@ -58,10 +68,13 @@ permalink: /about/
 ## Grants
 * 国家戦略分野の若手研究者及び博士後期課程学生の育成事業(BOOST)[次世代AI人材育成プログラム](https://www.jst.go.jp/jisedai/boost-s/)(博士後期課程学生), [採択](https://www.uec.ac.jp/news/announcement/2024/20241030_6584.html). 2024年4月-2027年3月.
 
-## 講演等
+## 講演・その他発表
 * 斉 志揚, 田中 義規．SIGDIAL2024国際会議報告．第102回言語・音声理解と対話処理研究会 ([第15回対話システムシンポジウム](https://ai-gakkai.or.jp/sig-slud/sig-announce/102th-sig.html))．
 * 田中 義規．生成AIを用いた質の高い文章作成方法．生成AI・AI活用セミナー（学内向け）2025年1月．
 * 田中 義規．対話システムを活用したユーザレビュー作成支援に関する研究．(ポスター発表) [未来の博士フェス2025 ～知の挑戦者たちへ ― 未来を拓く博士の力～](https://www.jst.go.jp/jisedai/mirainohakushi2025/)．2025年9月．
+
+## 活動
+- [SLUD若手ワークショップ](https://ai-gakkai.or.jp/sig-slud/archive/young-ws.html) オーガナイザ．2026年6月-
 
 ## インターン
 * トレーダム株式会社（2022年12月 - 2025年3月）
