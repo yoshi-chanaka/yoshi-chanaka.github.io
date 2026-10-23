@@ -14,11 +14,12 @@ permalink: /about/
 ---
 
 ## News
-- 論文誌「自然言語処理」に以下の論文が[採録](https://www.anlp.jp/guide/saitaku.html)されました．
-    - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における話者の心情を自然言語で記述するためのデータセットの構築, 自然言語処理, Vol.33, No.4, 2026.
-- [SLUD若手ワークショップ](https://ai-gakkai.or.jp/sig-slud/archive/young-ws.html)のオーガナイザに就任しました．
-- 第21回YANSシンポジウムにて以下の発表を行いました．
-    - 田中 義規, 井上 昂治, 稲葉 通将. 対話における話者本人の心情を第三者はどこまで推測できるか. 第21回YANSシンポジウム, S2-P39, 2026年8月.
+- 2026年10月17日に開催された[AIWolfDial 2026](https://aiwolfdial.github.io/aiwolf-nlp/menu/inlg_2026/program/)にて以下の発表を行いました．
+    - Yoshiki Tanaka, Shuya Uchiyama, Daichi Hamaguchi, Michimasa Inaba. [Beyond What to Say: Proactive Utterance Timing with Inner Thoughts for Werewolf Agents](https://aiwolfdial.github.io/aiwolf-nlp/papers/2026/AIWolfDial2026_paper__08.pdf). The 4th International Workshop on AI Werewolf and Dialog Systems (AIWolfDial2026) at INLG 2026.
+- [AIWolf International Contest 2026](https://aiwolfdial.github.io/aiwolf-nlp/page/inlg_2026/) 2nd Roundにて，チームUEC-ILが以下の3部門で受賞しました．
+    - 5-Player Village：LLM-as-a-Judge Negative Evaluation Award
+    - 9-Player Village：LLM-as-a-Judge Relative Evaluation Award
+    - 5-Player Speak-Anytime Track：LLM-as-a-Judge Negative Evaluation Award
 
 ---
 
@@ -35,6 +36,7 @@ permalink: /about/
 - 田中 義規, 上原 隆一, 井上 昂治, 稲葉 通将. 対話における話者の心情を自然言語で記述するためのデータセットの構築, 自然言語処理, Vol.33, No.4, 2026.
 
 ### 査読あり国際会議
+* Yoshiki Tanaka, Shuya Uchiyama, Daichi Hamaguchi, Michimasa Inaba. [Beyond What to Say: Proactive Utterance Timing with Inner Thoughts for Werewolf Agents](https://aiwolfdial.github.io/aiwolf-nlp/papers/2026/AIWolfDial2026_paper__08.pdf) (Long paper), The 4th International Workshop on AI Werewolf and Dialog Systems (AIWolfDial2026) at INLG 2026.
 * Yoshiki Tanaka, Ryuichi Uehara, Koji Inoue, Michimasa Inaba. [Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language](https://lrec.elra.info/lrec2026-main-761). In LREC 2026.
 * Yoshiki Tanaka, Takumasa Kaneko, Hiroki Onozeki, Natsumi Ezure, Ryuichi Uehara, Zhiyang Qi, Tomoya Higuchi, Ryutaro Asahara, Michimasa Inaba. [Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information](https://aclanthology.org/2024.aiwolfdial-1.6/). The 2nd International Workshop of AI Werewolf and Dialog System (AIWolfDial2024) at INLG 2024.
 * Yoshiki Tanaka. [Enhancing Decision-Making with AI Assistance](https://aclanthology.org/2024.yrrsds-1.19/). Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems. 2024.
@@ -59,6 +61,9 @@ permalink: /about/
 * 人狼知能大会自然言語部門2024国内大会（チームUEC-IL，2位）2024年5月.
 
 ## 受賞・表彰等
+* [AIWolf International Contest 2026](https://aiwolfdial.github.io/aiwolf-nlp/page/inlg_2026/) 2nd Round (チームUEC-IL). 2026年10月.
+    - LLM-as-a-Judge Relative Evaluation Award (9-Player Village)
+    - LLM-as-a-Judge Negative Evaluation Award (5-Player Village / 5-Player Speak-Anytime Track)
 * [人狼知能コンテスト2024冬季 国内大会 自然言語部門](https://sites.google.com/view/aiwolfdial2024winterjp/home)，勝率（Macro，Micro2）および主観評価（平均，一貫性）で1位. 2025年3月.
 * [AIWolf International Contest 2024](https://sites.google.com/view/aiwolfdial2024-inlg/home), Best Subjective Evaluation Award (チームUEC-IL, English Track). 2024年9月.
 * 田中 義規. 電気通信大学 学生表彰. 2023年3月.
