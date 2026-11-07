@@ -14,6 +14,8 @@ permalink: /about/
 ---
 
 ## News
+- 2026年11月24日-26日に開催される[第108回言語・音声理解と対話処理研究会（第17回対話システムシンポジウム）](https://ai-gakkai.or.jp/sig-slud/sig-announce/108th-sig.html)にて以下の発表を行います．
+    - 田中 義規, 鈴木 諒待, 中江 海斗, 稲葉 通将. 合意形成に向けた対話管理と身体動作の統合によるロボット対話システムの構築.
 - 2026年10月17日に開催された[AIWolfDial 2026](https://aiwolfdial.github.io/aiwolf-nlp/menu/inlg_2026/program/)にて以下の発表を行いました．
     - Yoshiki Tanaka, Shuya Uchiyama, Daichi Hamaguchi, Michimasa Inaba. [Beyond What to Say: Proactive Utterance Timing with Inner Thoughts for Werewolf Agents](https://aiwolfdial.github.io/aiwolf-nlp/papers/2026/AIWolfDial2026_paper__08.pdf). The 4th International Workshop on AI Werewolf and Dialog Systems (AIWolfDial2026) at INLG 2026.
 - [AIWolf International Contest 2026](https://aiwolfdial.github.io/aiwolf-nlp/page/inlg_2026/) 2nd Roundにて，チームUEC-ILが以下の3部門で受賞しました．
@@ -77,6 +79,10 @@ permalink: /about/
 * 斉 志揚, 田中 義規．SIGDIAL2024国際会議報告．第102回言語・音声理解と対話処理研究会 ([第15回対話システムシンポジウム](https://ai-gakkai.or.jp/sig-slud/sig-announce/102th-sig.html))．
 * 田中 義規．生成AIを用いた質の高い文章作成方法．生成AI・AI活用セミナー（学内向け）2025年1月．
 * 田中 義規．対話システムを活用したユーザレビュー作成支援に関する研究．(ポスター発表) [未来の博士フェス2025 ～知の挑戦者たちへ ― 未来を拓く博士の力～](https://www.jst.go.jp/jisedai/mirainohakushi2025/)．2025年9月．
+
+## 執筆記事
+* [LREC2026 参加報告](https://note.com/uecinabalab/n/n02a31edf3f5a)
+* [SIGDIAL2024 参加報告](https://www.inaba.aix.uec.ac.jp/blog/SIGDIAL2025)
 
 ## 活動
 - [SLUD若手ワークショップ](https://ai-gakkai.or.jp/sig-slud/archive/young-ws.html) オーガナイザ．2026年6月-
